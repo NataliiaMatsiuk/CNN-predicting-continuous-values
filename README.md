@@ -1,4 +1,4 @@
-# NN-for_predicting-continuous-values
+# NN_for_predicting-continuous-values
 
 There is a regression task with multiple continuous outputs.
 
